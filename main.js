@@ -50,3 +50,4 @@ var name = document.getElementById("name");
 
    var i = Math.floor((Math.random() * messages.length)),
    intro = document.getElementById("intro");
+   
